@@ -13,3 +13,4 @@ Werkzeug==1.0.1
 alembic #run/ alembic init alembic /in directory 
 #alembic revision --autogenerate -m "mirgation"
 #alembic upgrade head
+
