@@ -1,6 +1,7 @@
 from engine import db
 from datetime import datetime
 
+
 class Bid(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     created_at = db.Column(db.DateTime, nullable=False, default=datetime.now)
