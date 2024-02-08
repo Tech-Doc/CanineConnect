@@ -3,7 +3,6 @@ from main.py import app
 from api.api import db
 
 cli = FlaskGroup(app)
-
 @cli.command("initdb")
 def initdb():
     """Initialize the database."""
