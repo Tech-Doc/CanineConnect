@@ -1,4 +1,4 @@
-Unleash Canine Connections with CanineConnect: Your Ultimate Hub for Buying and Selling Man's Best Friend!
+Unleash Canine Connections with CanineConnect:Your Ultimate Hub for Buying and Selling Man's Best Friend!
 
 In a world where our furry friends hold a special place in our hearts, finding the perfect canine companion just got easier. Introducing CanineConnect, the revolutionary application that brings together dog enthusiasts, breeders, and those seeking a new four-legged family member.
 
